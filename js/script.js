@@ -39,6 +39,9 @@
     if (type === "email") return ICONS.email;
     if (type === "phone") return ICONS.phone;
     if (type === "location") return ICONS.location;
+    if (type === "github") return ICONS.github;
+    if (type === "linkedin") return ICONS.linkedin;
+    if (type === "telegram") return ICONS.telegram;
     return ICONS.link;
   }
 

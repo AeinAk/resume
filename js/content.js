@@ -91,13 +91,13 @@ const CONTENT = {
       heading: "ارتباط با من",
       body: "برای همکاری، پیشنهاد شغلی یا هر گفت‌وگوی دیگری خوشحال می‌شوم باهام در ارتباط باشید.",
       items: [
-        { type: "email", label: "ایمیل", value: "[email protected]", href: "#" },
-        { type: "phone", label: "تلفن", value: "۰۹۱۲۰۰۰۰۰۰۰", href: "#" },
-        { type: "location", label: "موقعیت مکانی", value: "تهران، ایران", href: "#" }
+        { type: "email", label: "ایمیل", value: "[email protected]", href:"#"},
+        { type: "phone", label: "تلفن", value: "۰۹۱۲۰۰۰۰۰۰۰", href: "#"},
+        { type: "github", label: "گیت‌هاب", value: "AeinAk", href: "https://github.com/AeinAk"},
+        { type: "linkedin", label: "لینکدین", value: "aein-akbarzadeh", href: "https://linkedin.com/in/aein-akbarzadeh" }
       ],
       socials: [
-        { type: "github", label: "گیت‌هاب", url: "https://github.com/AeinAk" },
-        { type: "linkedin", label: "لینکدین", url: "https://linkedin.com/in/aein-akbarzadeh" }
+        { type: "telegram", label: "تلگرام", url: "#" },
       ]
     },
     footer: { text: "© 1405 ساخته شده توسط آیین اکبرزاده" }
@@ -195,12 +195,12 @@ const CONTENT = {
       body: "I'd love to hear from you about collaboration, job opportunities, or anything else.",
       items: [
         { type: "email", label: "Email", value: "[email protected]", href: "#" },
-        { type: "phone", label: "Phone", value: "+98 912 000 0000", href: "#" },
-        { type: "location", label: "Location", value: "Tehran, Iran", href: "#" }
+        { type: "phone", label: "Phone", value: "+98 912 000 0000", href: "#"},
+        { type: "github", label: "GitHub", value: "AeinAk", href: "https://github.com/AeinAk"},
+        { type: "linkedin", label: "LinkedIn", value: "aein-akbarzadeh", href: "https://linkedin.com/in/aein-akbarzadeh" }
       ],
       socials: [
-        { type: "github", label: "GitHub", url: "https://github.com/AeinAk" },
-        { type: "linkedin", label: "LinkedIn", url: "https://linkedin.com/in/aein-akbarzadeh" }
+        { type: "telegram", label: "Telegram", url: "#" },
       ]
     },
     footer: { text: "© 2026 Made by Aein Akbarzadeh" }
