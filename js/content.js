@@ -38,14 +38,14 @@ const CONTENT = {
           degree: "کارشناسی مهندسی کامپیوتر",
           institution: "دانشگاه امیرکبیر(پلی‌تکنیک تهران)",
           period: "1404 - الان",
-          score: "معدل: 17.93",
+          score: "معدل: --",
           note: "در حال تحصیل"
         },
         {
           degree: "دیپلم ریاضی و فیزیک",
           institution: "دبیرستان دانش",
           period: "1401 - 1404",
-          score: "معدل: 19.58",
+          score: "معدل: --",
           note: ""
         }
       ]
@@ -100,7 +100,7 @@ const CONTENT = {
         { type: "telegram", label: "تلگرام", url: "#" },
       ]
     },
-    footer: { text: "© 1405 ساخته شده توسط آیین اکبرزاده" }
+    footer: { text: "© 1405 آیین اکبرزاده" }
   },
 
   en: {
@@ -141,14 +141,14 @@ const CONTENT = {
           degree: "B.Sc. in Computer Engineering",
           institution: "Amirkabir University(Polytechnic of Tehran)",
           period: "2025 - now",
-          score: "GPA: 17.93 / 20",
+          score: "GPA: -- / 20",
           note: "Still Educating"
         },
         {
           degree: "High School Diploma, Math & Physics",
           institution: "Danesh High School",
           period: "2022 - 2025",
-          score: "GPA: 19.58 / 20",
+          score: "GPA: -- / 20",
           note: ""
         }
       ]
@@ -203,6 +203,6 @@ const CONTENT = {
         { type: "telegram", label: "Telegram", url: "#" },
       ]
     },
-    footer: { text: "© 2026 Made by Aein Akbarzadeh" }
+    footer: { text: "© 2026 Aein Akbarzadeh" }
   }
 };
