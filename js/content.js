@@ -56,7 +56,8 @@ const CONTENT = {
         { title: "زبان‌های برنامه‌نویسی", items: ["JavaScript", "Python", "C", "Java"] },
         { title: "فرانت‌اند", items: ["HTML5", "CSS3"] },
         { title: "ابزار‌ها", items: ["Github", "Git"] },
-        { title: "زبان‌های خارجی", items: ["انگلیسی (متوسط رو‌به‌بالا)"] }
+        { title: "زبان‌های خارجی", items: ["انگلیسی (متوسط رو‌به‌بالا)"] },
+        { title: "مفاهیم تکنولوژی", items: ["لینوکس", "شبکه", "برنامه‌نویسی شئ‌گرا"]}
       ]
     },
     experience: {
@@ -159,7 +160,8 @@ const CONTENT = {
         { title: "Programming Languages", items: ["JavaScript", "Python", "C", "Java"] },
         { title: "Front-End", items: ["HTML5", "CSS3"] },
         { title: "Tools", items: ["Git", "Github"] },
-        { title: "Languages", items: ["English (Upper-Intermediate)"] }
+        { title: "Languages", items: ["English (Upper-Intermediate)"] },
+        { title: "Technology concepts", items: ["Linux", "Network", "OOP"]}
       ]
     },
     experience: {
